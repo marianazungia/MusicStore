@@ -1,0 +1,12 @@
+[2022-07-07 10:38:15  FTL]  Clave Incorrecta
+System.ApplicationException: Clave Incorrecta
+   at MusicStore.Services.Implementations.UserService.LoginAsync(DtoLogin request) in D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Services\Implementations\UserService.cs:line 116
+[2022-07-07 10:38:19  FTL]  Clave Incorrecta
+System.ApplicationException: Clave Incorrecta
+   at MusicStore.Services.Implementations.UserService.LoginAsync(DtoLogin request) in D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Services\Implementations\UserService.cs:line 116
+[2022-07-07 10:38:24  FTL]  Clave Incorrecta
+System.ApplicationException: Clave Incorrecta
+   at MusicStore.Services.Implementations.UserService.LoginAsync(DtoLogin request) in D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Services\Implementations\UserService.cs:line 116
+[2022-07-07 10:38:27  FTL]  Clave Incorrecta
+System.ApplicationException: Clave Incorrecta
+   at MusicStore.Services.Implementations.UserService.LoginAsync(DtoLogin request) in D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Services\Implementations\UserService.cs:line 116

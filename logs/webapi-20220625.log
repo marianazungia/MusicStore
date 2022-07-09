@@ -1,0 +1,13 @@
+[2022-06-25 19:18:43  FTL]  Clave Incorrecta
+System.ApplicationException: Clave Incorrecta
+   at MusicStore.Services.Implementations.UserService.LoginAsync(DtoLogin request) in D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Services\Implementations\UserService.cs:line 116
+[2022-06-25 23:08:37  ERR]  Health check Host desconocido with status "Unhealthy" completed after 266.7694ms with message 'Error General'
+System.Net.NetworkInformation.PingException: An exception occurred during a Ping request.
+ ---> System.Net.Sockets.SocketException (11001): Host desconocido.
+   at System.Net.NameResolutionPal.ProcessResult(SocketError errorCode, GetAddrInfoExContext* context)
+   at System.Net.NameResolutionPal.GetAddressInfoExCallback(Int32 error, Int32 bytes, NativeOverlapped* overlapped)
+--- End of stack trace from previous location ---
+   at System.Net.NetworkInformation.Ping.GetAddressAndSendAsync(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   --- End of inner exception stack trace ---
+   at System.Net.NetworkInformation.Ping.GetAddressAndSendAsync(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at MusicStore.API.HealthChecks.PingHealthCheck.CheckHealthAsync(HealthCheckContext context, CancellationToken cancellationToken) in D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.API\HealthChecks\PingHealthCheck.cs:line 24

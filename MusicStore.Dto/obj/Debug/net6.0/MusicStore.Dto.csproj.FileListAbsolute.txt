@@ -1,0 +1,12 @@
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\bin\Debug\net6.0\MusicStore.Dto.deps.json
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\bin\Debug\net6.0\MusicStore.Dto.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\bin\Debug\net6.0\MusicStore.Dto.pdb
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\obj\Debug\net6.0\MusicStore.Dto.csproj.AssemblyReference.cache
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\obj\Debug\net6.0\MusicStore.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\obj\Debug\net6.0\MusicStore.Dto.AssemblyInfoInputs.cache
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\obj\Debug\net6.0\MusicStore.Dto.AssemblyInfo.cs
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\obj\Debug\net6.0\MusicStore.Dto.csproj.CoreCompileInputs.cache
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\obj\Debug\net6.0\MusicStore.Dto.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\obj\Debug\net6.0\refint\MusicStore.Dto.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\obj\Debug\net6.0\MusicStore.Dto.pdb
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Dto\obj\Debug\net6.0\ref\MusicStore.Dto.dll

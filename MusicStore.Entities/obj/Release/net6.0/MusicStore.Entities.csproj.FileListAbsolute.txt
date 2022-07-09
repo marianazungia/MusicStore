@@ -1,0 +1,12 @@
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\bin\Release\net6.0\MusicStore.Entities.deps.json
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\bin\Release\net6.0\MusicStore.Entities.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\bin\Release\net6.0\MusicStore.Entities.pdb
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\obj\Release\net6.0\MusicStore.Entities.csproj.AssemblyReference.cache
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\obj\Release\net6.0\MusicStore.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\obj\Release\net6.0\MusicStore.Entities.AssemblyInfoInputs.cache
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\obj\Release\net6.0\MusicStore.Entities.AssemblyInfo.cs
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\obj\Release\net6.0\MusicStore.Entities.csproj.CoreCompileInputs.cache
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\obj\Release\net6.0\MusicStore.Entities.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\obj\Release\net6.0\refint\MusicStore.Entities.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\obj\Release\net6.0\MusicStore.Entities.pdb
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.Entities\obj\Release\net6.0\ref\MusicStore.Entities.dll

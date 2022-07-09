@@ -1,0 +1,17 @@
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\bin\Debug\net6.0\MusicStore.DataAccess.deps.json
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\bin\Debug\net6.0\MusicStore.DataAccess.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\bin\Debug\net6.0\MusicStore.DataAccess.pdb
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\bin\Debug\net6.0\MusicStore.Dto.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\bin\Debug\net6.0\MusicStore.Entities.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\bin\Debug\net6.0\MusicStore.Dto.pdb
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\bin\Debug\net6.0\MusicStore.Entities.pdb
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\MusicStore.DataAccess.csproj.AssemblyReference.cache
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\MusicStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\MusicStore.DataAccess.AssemblyInfoInputs.cache
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\MusicStore.DataAccess.AssemblyInfo.cs
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\MusicStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\MusicStore.DataAccess.csproj.CopyComplete
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\MusicStore.DataAccess.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\refint\MusicStore.DataAccess.dll
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\MusicStore.DataAccess.pdb
+D:\Visual\Oficial\MusicStore\MitoCode Musical Store\MusicStore.DataAccess\obj\Debug\net6.0\ref\MusicStore.DataAccess.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfHoac5swS7qUb5ohEGcilr9HcPLSTD50KPJc0nadIfwgIwqq6njsN/D/pT4R5SYBqLplEX/esiKFQ0naVGJSA==",
+  "success": true,
+  "projectFilePath": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Dto\\MusicStore.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mariana\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Mariana\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Mariana\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mariana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mariana\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mariana\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mariana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

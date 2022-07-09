@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.DataAccess\\MusicStore.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.DataAccess\\MusicStore.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.DataAccess\\MusicStore.DataAccess.csproj",
+        "projectName": "MusicStore.DataAccess",
+        "projectPath": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.DataAccess\\MusicStore.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Mariana\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mariana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Dto\\MusicStore.Dto.csproj": {
+                "projectPath": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Dto\\MusicStore.Dto.csproj"
+              },
+              "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Entities\\MusicStore.Entities.csproj": {
+                "projectPath": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Entities\\MusicStore.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Dto\\MusicStore.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Dto\\MusicStore.Dto.csproj",
+        "projectName": "MusicStore.Dto",
+        "projectPath": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Dto\\MusicStore.Dto.csproj",
+        "packagesPath": "C:\\Users\\Mariana\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mariana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Entities\\MusicStore.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Entities\\MusicStore.Entities.csproj",
+        "projectName": "MusicStore.Entities",
+        "projectPath": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Entities\\MusicStore.Entities.csproj",
+        "packagesPath": "C:\\Users\\Mariana\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual\\Oficial\\MusicStore\\MitoCode Musical Store\\MusicStore.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mariana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

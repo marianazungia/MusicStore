@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xqDz4br2BCeID+dQhizq4pjNuFbZC6s2K2uSZc97glM=",
+  "Source": "MusicStore.API",
+  "BasePath": "_content/MusicStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
